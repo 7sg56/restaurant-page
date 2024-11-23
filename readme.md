@@ -9,6 +9,7 @@ TThis project is a modern website concept for a hypothetical honey-based shop. D
 ## Status
 
 🚧 **Under Development**
+
 This project is currently a work in progress and is not fully operational. However, a live preview of the ongoing progress has been deployed for testing and feedback purposes. Stay tuned for updates as new features and enhancements are added!
 
 ## Usage
