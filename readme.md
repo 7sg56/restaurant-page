@@ -1,22 +1,36 @@
 # Honey Website
 
-Welcome to the **Honey Website** repository! 🍯
+This project is a modern website concept for a hypothetical honey-based shop. Designed with creativity and functionality in mind, the goal is to craft a sleek, responsive, and visually captivating interface. While the focus is on a honey-themed restaurant or food-product pages, the design could inspire other types of culinary or product-based sites.
 
-## About
+## Demo 
 
-TThis project is a modern website concept for a hypothetical honey-based shop. Designed with creativity and functionality in mind, the goal is to craft a sleek, responsive, and visually captivating interface. While the focus is on a honey-themed restaurant or food-product pages, the design could inspire other types of culinary or product-based sites.
+Here's a website preview link
 
-## Status
+https://7sg56.github.io/honey-store/
 
-🚧 **Under Development**
+## 🌟 Features
 
-This project is currently a work in progress and is not fully operational. However, a live preview of the ongoing progress has been deployed for testing and feedback purposes. Stay tuned for updates as new features and enhancements are added!
+- Fully responsive design for desktop, tablet, and mobile.
+- Smooth scroll animations using **ScrollReveal.js**.
+- Interactive navigation bar with a modern look.
+- Product showcase with attractive layouts.
+- Customer reviews and testimonials section.
+- Social media links and contact information.
 
-## Usage
+## 🛠️ Technologies Used
 
-The site is not yet feature-complete and is intended for testing and development during this phase. Full usage instructions and details will be provided upon completion.
+- **HTML5**: Structure of the website.
+- **CSS3**: Styling and layout.
+- **JavaScript**: Adding dynamic and interactive elements.
+- **Boxicons**: Lightweight icons for an elegant look.
+- **ScrollReveal.js**: Animation library for smooth effects.
 
-## Contributing
+## 📁 Project Structure
 
-Contributions are welcome! If you'd like to help, please wait for further updates on the structure and guidelines.
+```plaintext
+|-- assets/                # Images and media files
+|-- index.html             # Main HTML file
+|-- style.css              # CSS file for styling
+|-- script.js              # JavaScript file for interactivity
+|-- README.md              # Project documentation
 
